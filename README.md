@@ -13,6 +13,8 @@ https://www.iso.org/fr/standard/38421.html
 > ISO 13485 Medical devices -- Quality management systems -- Requirements for regulatory purposes
 ##### Risk management
 > The management of risks for medical devices is described by the International Organization for Standardization (ISO) in ISO 14971:2007, Medical Devices—The application of risk management to medical devices, a product safety standard. The standard provides a process framework and associated requirements for management responsibilities, risk analysis and evaluation, risk controls and lifecycle risk management.
+
+[ISO 13485:2016 Medical devices -- Quality management systems -- Requirements for regulatory purposes](https://www.iso.org/standard/59752.html)
 ##### Software safety classification
 #### B. Software development process
 ##### Software development planning
