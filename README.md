@@ -19,4 +19,4 @@ https://www.iso.org/fr/standard/38421.html
 - [How to develop a smartphone App to be FDA-cleared or CE Marked? - part 6 Conclusion](http://blog.cm-dm.com/post/2014/02/14/How-to-develop-a-smartphone-App-to-be-FDA-cleared-or-CE-Marked-part-6-Conclusion)
 
 ### Presentation
-- [How to achieve compliance with IEC 62304 for medical device software development]()
+- [How to achieve compliance with IEC 62304 for medical device software development (pdf)](https://github.com/nicodinh/IEC-62304/raw/master/scribd-download.com_iec-62304-presentation.pdf)
