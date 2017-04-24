@@ -2,6 +2,7 @@
 
 ## IEC 62304:2006
 > Logiciels de dispositifs médicaux -- Processus du cycle de vie du logiciel
+
 > Définit les exigences du cycle de vie des logiciels de dispositifs médicaux. L'ensemble des processus, activités et tâches décrit dans la présente norme constitue un cadre commun pour les processus du cycle de vie des logiciels de dispositifs médicaux. 
 
 https://www.iso.org/fr/standard/38421.html
