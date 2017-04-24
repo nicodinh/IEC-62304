@@ -7,6 +7,43 @@
 
 https://www.iso.org/fr/standard/38421.html
 
+### Checklist
+#### General Requirements
+##### Quality management system
+##### Risk management
+##### Software safety classification
+#### Software development process
+##### Software development planning
+##### Software requirements analysis
+##### Software architecural design
+##### Sofware detailed design
+##### Software unit implemtation and verification
+##### Software integration and integration testing
+##### Software system testing
+##### Software release
+#### Software maintenance process
+##### Establish software maintenance plan
+##### Problem and information analysis
+##### Modification implementation
+#### Software risk management process
+##### Analysis of software items that could contribute to a hazardous situation
+##### Risk control measures
+##### Verification of risk control measures
+##### Risk management of software changes
+#### Software configuration management process
+##### Configuration identification
+##### Change control
+##### Configuration status accounting
+#### Software problem resolution process
+##### Prepare problem reports
+##### Investigate the problem
+##### Advise relevant parties
+##### Use change control process
+##### Maintain records
+##### Analyse problem for trends
+##### Verify software problem resolution
+##### Test documentation contents
+
 ## Resources
 
 ### A mobile app
