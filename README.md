@@ -17,7 +17,7 @@ https://www.iso.org/fr/standard/38421.html
 ##### Software requirements analysis
 ##### Software architecural design
 ##### Sofware detailed design
-##### Software unit implemtation and verification
+##### Software unit implementation and verification
 ##### Software integration and integration testing
 ##### Software system testing
 ##### Software release
