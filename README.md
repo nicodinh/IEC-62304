@@ -8,11 +8,11 @@
 https://www.iso.org/fr/standard/38421.html
 
 ### Checklist
-#### General Requirements
+#### A. General Requirements
 ##### Quality management system
 ##### Risk management
 ##### Software safety classification
-#### Software development process
+#### B. Software development process
 ##### Software development planning
 ##### Software requirements analysis
 ##### Software architecural design
@@ -21,20 +21,20 @@ https://www.iso.org/fr/standard/38421.html
 ##### Software integration and integration testing
 ##### Software system testing
 ##### Software release
-#### Software maintenance process
+#### C. Software maintenance process
 ##### Establish software maintenance plan
 ##### Problem and information analysis
 ##### Modification implementation
-#### Software risk management process
+#### D. Software risk management process
 ##### Analysis of software items that could contribute to a hazardous situation
 ##### Risk control measures
 ##### Verification of risk control measures
 ##### Risk management of software changes
-#### Software configuration management process
+#### E. Software configuration management process
 ##### Configuration identification
 ##### Change control
 ##### Configuration status accounting
-#### Software problem resolution process
+#### F. Software problem resolution process
 ##### Prepare problem reports
 ##### Investigate the problem
 ##### Advise relevant parties
