@@ -64,9 +64,9 @@ https://www.iso.org/fr/standard/38421.html
 - [How to bring legacy software into line with IEC 62304? - part 3](http://blog.cm-dm.com/post/2013/02/27/How-to-bring-legacy-software-into-line-with-IEC-62304-part-3)
 
 ### Software safety classification
+- [What is a Software Unit?](http://blog.cm-dm.com/post/2013/01/11/What-is-a-Software-Unit)
 - [Class A, B and C. When to do detailed design of software medical devices?](http://blog.cm-dm.com/post/2013/01/18/Class-A%2C-B-and-C.-When-to-do-detailed-design-of-software-medical-devices)
 - [Class A, B and C. Is it possible to reduce the documentation of detailed design of software medical devices?](http://blog.cm-dm.com/post/2013/01/21/Class-A%2C-B-and-C.-Is-it-possible-to-reduce-the-documentation-of-detailed-design-of-software-medical-devices)
-- [What is a Software Unit?](http://blog.cm-dm.com/post/2013/01/11/What-is-a-Software-Unit)
 
 ### Agile
 - [How to use templates with agile methods?](http://blog.cm-dm.com/post/2012/06/24/How-to-use-templates-with-agile-methods)
