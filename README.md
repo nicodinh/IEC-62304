@@ -51,13 +51,25 @@ https://www.iso.org/fr/standard/38421.html
 ## Resources
 
 ### A mobile app
-
 - [How to develop a smartphone App to be FDA-cleared or CE Marked? - part 1 regulations](http://blog.cm-dm.com/post/2013/11/08/How-to-develop-a-smartphone-App-to-be-FDA-cleared-or-CE-Marked-part-1)
 - [How to develop a smartphone App to be FDA-cleared or CE Marked? - part 2 IEC 62304 and agile methods](http://blog.cm-dm.com/post/2013/12/03/How-to-develop-a-smartphone-App-to-be-FDA-cleared-or-CE-Marked-part-2-IEC-62304-and-agile-methods)
 - [How to develop a smartphone App to be FDA-cleared or CE Marked? - part 3 Wireless](http://blog.cm-dm.com/post/2013/11/22/How-to-develop-a-smartphone-App-to-be-FDA-cleared-or-CE-Marked-part-3-Wireless)
 - [How to develop a smartphone App to be FDA-cleared or CE Marked? - part 4 Usability](http://blog.cm-dm.com/post/2013/11/29/How-to-develop-a-smartphone-App-to-be-FDA-cleared-or-CE-Marked-part-4-Usability)
 - [How to develop a smartphone App to be FDA-cleared or CE Marked? - part 5 Deployment](http://blog.cm-dm.com/post/2014/01/31/How-to-develop-a-smartphone-App-to-be-FDA-cleared-or-CE-Marked-part-5-Deployment)
 - [How to develop a smartphone App to be FDA-cleared or CE Marked? - part 6 Conclusion](http://blog.cm-dm.com/post/2014/02/14/How-to-develop-a-smartphone-App-to-be-FDA-cleared-or-CE-Marked-part-6-Conclusion)
+
+### Software
+- [How to bring legacy software into line with IEC 62304? - part 1](http://blog.cm-dm.com/post/2013/02/06/How-to-bring-legacy-software-into-line-with-IEC-62304-part1)
+- [How to bring legacy software into line with IEC 62304? - part 2](http://blog.cm-dm.com/post/2013/02/15/How-to-bring-legacy-software-into-line-with-IEC-62304-part2)
+- [How to bring legacy software into line with IEC 62304? - part 3](http://blog.cm-dm.com/post/2013/02/27/How-to-bring-legacy-software-into-line-with-IEC-62304-part-3)
+
+### Software safety classification
+- [Class A, B and C. When to do detailed design of software medical devices?](http://blog.cm-dm.com/post/2013/01/18/Class-A%2C-B-and-C.-When-to-do-detailed-design-of-software-medical-devices)
+- [Class A, B and C. Is it possible to reduce the documentation of detailed design of software medical devices?](http://blog.cm-dm.com/post/2013/01/21/Class-A%2C-B-and-C.-Is-it-possible-to-reduce-the-documentation-of-detailed-design-of-software-medical-devices)
+- [What is a Software Unit?](http://blog.cm-dm.com/post/2013/01/11/What-is-a-Software-Unit)
+
+### Agile
+- [How to use templates with agile methods?](http://blog.cm-dm.com/post/2012/06/24/How-to-use-templates-with-agile-methods)
 
 ### Presentation
 - [How to achieve compliance with IEC 62304 for medical device software development (pdf)](https://github.com/nicodinh/IEC-62304/raw/master/scribd-download.com_iec-62304-presentation.pdf)
